@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, CallbackContext
 from re import search
 from urllib.parse import urljoin, urlparse
 
-BOT_TOKEN = "5852849275:AAGKahBzvcU6taNUE0hK9u-1JdV8JL4vmpk"   # enter your telegram bot token
+BOT_TOKEN = "token"   # enter your telegram bot token
 
 
 
